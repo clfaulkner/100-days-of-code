@@ -9,7 +9,4 @@
 ### Thoughts: Also set up a fiddle at jsfiddle.net as a proving ground for HTML snippets.
 ### Link to work: [traversy-dom-course](https://codesandbox.io/s/traversy-dom-course-x7fje)
 
-## RxDx - [xx/xx/xxxx]
-### Today's Progress: [text]
-### Thoughts: [text]
-### Link to work: [text](example.com)
+
