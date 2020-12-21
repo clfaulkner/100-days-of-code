@@ -4,6 +4,11 @@
 
 ## Log
 
+## R2D3 - 12/20/2020
+### Today's Progress: Worked on JS for weather app. Got 3-day forecast data to show in console.
+### Thoughts: [text]
+### Link to work: [jsfiddle](https://jsfiddle.net/mrchrisf/wg2d675y/8/)
+
 ## R2D2 - 12/19/2020
 ### Today's Progress: Worked on HTML for my weather app.
 ### Thoughts: Looked up <code>for</code> loops in JS. Determining my best practice for looking up JS. Current choices: DevDocs; Eloquent JS; MDN (Mozilla).
